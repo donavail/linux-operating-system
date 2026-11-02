@@ -1,2 +1,2 @@
 # linux-operating-system
-Documentation of Linux operating system and practical coursework during undergraduate studies.
+This repository contains a collection of learning materials and practical coursework from the Operating Systems and Operating Systems Practicum courses completed during my undergraduate studies at Universitas Sriwijaya. The materials focus on the Linux operating system, covering its fundamental concepts, command-line operations, built-in features, file and directory management, system administration, and other essential functionalities. It serves as a personal learning archive documenting the knowledge and practical skills developed throughout the courses, with the original PDF materials organized into theoretical and practical sections.
